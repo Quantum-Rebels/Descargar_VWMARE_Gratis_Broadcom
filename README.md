@@ -47,7 +47,7 @@
 
 <img width="500px" height="500px" src="https://github.com/Quantum-Rebels/Descargar_VWMARE_Gratis_Broadcom/blob/main/paso9.png" alt="" />
 
-<p>8.- Luego haga clic en el botón de descarga a la derecha, le aparecerá un mensaje que le preguntará esto: “Antes de descargar este archivo, se requiere una verificación adicional. ¿Proceder?" presione Sí y serás redirigido a esta página:</p>
+<p>8.- Luego haga clic en el botón de descarga a la derecha, le aparecerá un mensaje que le preguntará esto: “Antes de descargar este archivo, se requiere una verificación adicional. ¿Proceder?" presione Sí y serás redirigido a esta página (Rellena la informacion con datos falsos): 👇👇👇</p>
 
 <img width="500px" height="500px" src="https://github.com/Quantum-Rebels/Descargar_VWMARE_Gratis_Broadcom/blob/main/paso10.png" alt="" />
 
