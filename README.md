@@ -32,7 +32,7 @@
 
 <p>4.- Despues de Registrate, te pedira que cree su perfil, <br /> NO debes de darle a "Yes, i want to Build my Profile", si no que debes de darle a "I'll do it later"  👇👇👇</p>
 
-<img width="500px" height="500px" src="https://github.com/Quantum-Rebels/Descargar_VWMARE_Gratis_Broadcom/blob/main/paso5.png" alt="" />
+<img width="500px" height="500px" src="https://github.com/Quantum-Rebels/Descargar_VWMARE_Gratis_Broadcom/blob/main/paso5.jpg?raw=true" alt="" />
 
 <p>5.- Una vez hecho esto debes de ir a la siguiente pagina y inicie session usando el correo electronico que te has registrado como nombre de usuario: https://support.broadcom.com/group/ecx/productdownloads?subfamily=VMware+Workstation+Pro 👇👇👇</p>
 
